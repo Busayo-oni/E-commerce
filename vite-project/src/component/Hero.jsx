@@ -2,7 +2,7 @@ import React from 'react';
 import './Hero.css';
 import heroImage from '../assets/pexels-minan1398-793010.jpg'; // Import image
 
-const HeroSection = () => {
+const HeroSection = () => { 
   return (
     <section className="hero">
       <div className="hero-image">

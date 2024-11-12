@@ -7,8 +7,12 @@ function App() {
 
   return (
     <>
-      <Exclusive />
+      <Header />
+      <Hero />
       <OurStory />
+      <Sea />
+      <Exclusive />
+      <Footer />
     </>
   )
 }

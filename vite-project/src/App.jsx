@@ -6,6 +6,8 @@ import Header from './component/Header'
 import Sea from './component/Sea'
 import Footer from './component/Footer'
 import Flavor from './component/Flavor'
+import Hero from './component/Hero'
+
 
 
 function App() {
@@ -13,7 +15,7 @@ function App() {
   return (
     <>
       <Header />
-      {/* <Hero /> */}
+      <Hero />
       <OurStory />
       <Flavor />
       <Sea />
